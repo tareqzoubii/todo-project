@@ -1,0 +1,111 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'BhuTuka Expanded One', cursive;
+    line-height: 1.5;
+    background-color:linen
+}
+a {
+    text-decoration: none;
+    text-transform: capitalize;
+}
+img {
+ width: 100%;
+}
+
+header {
+    
+    width: 100%;
+    padding: 20px 100px;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+
+}
+.header-logo {
+    width: 110px;
+}
+
+header {
+   display: flex;
+   justify-content: space-between;
+   margin-bottom: 25px;
+
+}
+.nav-item {
+    color: blue;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 20px;
+
+}
+main {
+    background-color:white;
+    
+}
+#cen {
+    text-align: center;
+    align-items: center;
+    color: blue;
+    margin-top: 5px;
+    font-size: larger;
+    
+}
+ #header {
+    text-align: center;
+    align-items: center;
+    color: blue;
+ }
+
+
+ 
+ 
+ table {
+    width: 80%;
+    height: 80%;
+    align-items: center;
+    text-align: center;
+    border-color: blue;
+    margin-top: 50px;
+    margin-left: 130px;
+    margin-bottom: 50px;
+
+ }
+
+ footer {
+    padding:  50px 100px;
+    
+ }
+  .footer-top {
+    display: grid;
+    gap: 30px;
+    grid-column: 1 /span 2;
+    color: blue;
+    text-align: center;
+  }
+  
+  footer a {
+    display: block;
+    line-height: 2.5;
+
+  }
+  .footer-links {
+    display: block;
+    line-height: 2.5;
+    color: blue;
+    text-align: center;
+  }
+  .footer-bottom {
+    text-align: right;
+  }
+
+
+  h1 {
+    text-align: center;
+  }
+img {
+    
+}
